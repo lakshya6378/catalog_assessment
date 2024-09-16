@@ -1,41 +1,24 @@
 # catalog_assessment
-Prerequisites
-JavaScript runtime environment (Browser or Node.js).
-Setup and Running the Code
-1. Prepare the JavaScript File
-Save the JavaScript code into a file named polynomial.js.
+Certainly! Here's the `README.md` file focused solely on running the code using JavaScript in a browser's developer console:
 
-2. Running the Code
-Using a Browser's Developer Console
-Open the browser's developer console:
+---
 
-For most browsers, press F12 or Ctrl+Shift+I (Windows/Linux) or Cmd+Option+I (Mac), and then select the "Console" tab.
-Copy the contents of polynomial.js and paste it into the console.
+## Running the Code
 
-Press Enter to execute the code.
+### Using a Browser's Developer Console
 
-Using Node.js
-Ensure Node.js is installed on your system.
+1. **Open the Browser’s Developer Console**:
+   - For most browsers, press `F12` or `Ctrl+Shift+I` (Windows/Linux) or `Cmd+Option+I` (Mac), and then select the "Console" tab.
 
-Run the script by executing the following command in your terminal or command prompt:
+2. **Copy the JavaScript Code**:
+   - Copy the contents of the `polynomial.js` file.
 
-bash
-Copy code
-node polynomial.js
-Output
-The script will print the constant term of the polynomial for each test case:
+3. **Paste and Execute**:
+   - Paste the copied code into the console and press `Enter` to execute it.
 
-For jsonInput1:
+4. **View Output**:
+   - The output will be displayed directly in the console, showing the constant term for each test case.
 
-mathematica
-Copy code
-Constant term for jsonInput1: 3
-For jsonInput2:
+---
 
-mathematica
-Copy code
-Constant term for jsonInput2: 28735619723864
-Notes
-Dependencies: No external libraries or dependencies are required for this script.
-Assumptions: The code assumes valid JSON input and sufficient data points (at least k).
-Feel free to adjust the sample JSON inputs and test cases as needed.
+This section provides a straightforward guide for running the JavaScript code using a browser's developer console.
