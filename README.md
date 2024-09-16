@@ -1,24 +1,35 @@
 # catalog_assessment
-Certainly! Here's the `README.md` file focused solely on running the code using JavaScript in a browser's developer console:
-
----
 
 ## Running the Code
 
-### Using a Browser's Developer Console
+### Using Node.js
 
-1. **Open the Browser’s Developer Console**:
-   - For most browsers, press `F12` or `Ctrl+Shift+I` (Windows/Linux) or `Cmd+Option+I` (Mac), and then select the "Console" tab.
+1. **Ensure Node.js is Installed**:
+   - Make sure Node.js is installed on your system. You can download it from [nodejs.org](https://nodejs.org/).
 
-2. **Copy the JavaScript Code**:
-   - Copy the contents of the `polynomial.js` file.
+2. **Save the JavaScript Code**:
+   - Save the provided JavaScript code to a file named `polynomial.js`.
 
-3. **Paste and Execute**:
-   - Paste the copied code into the console and press `Enter` to execute it.
+3. **Open Your Terminal or Command Prompt**:
+   - Open your terminal (Mac/Linux) or command prompt (Windows).
 
-4. **View Output**:
-   - The output will be displayed directly in the console, showing the constant term for each test case.
+4. **Navigate to the Directory**:
+   - Use the `cd` command to change to the directory where `polynomial.js` is saved. For example:
+
+     ```bash
+     cd path/to/directory
+     ```
+
+5. **Run the Script**:
+   - Execute the script using Node.js with the following command:
+
+     ```bash
+     node polynomial.js
+     ```
+
+6. **View Output**:
+   - The output will be printed in the terminal, displaying the constant term for each test case.
 
 ---
 
-This section provides a straightforward guide for running the JavaScript code using a browser's developer console.
+This `README.md` section provides clear steps to run a JavaScript file using Node.js, including installation, saving the file, and executing it from the terminal.
